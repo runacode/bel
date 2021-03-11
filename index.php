@@ -73,8 +73,8 @@ $phone = "(314) 968-6444";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
-                <h6 class="u-text u-text-8">Tell us about your project!</h6>
+                <h3 class="u-text u-text-7">Hello</h3>
+                <h6 class="u-text u-text-8">Don't hesitate to contact us!</h6>
               </div>
             </div>
           </div>
